@@ -1,3 +1,5 @@
+package com.techstack.problems;
+
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.time.temporal.TemporalAdjusters;
